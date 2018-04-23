@@ -1,0 +1,10 @@
+/Makefrag.pkgs
+target
+*.jar
+*.stamp
+/vsim
+/verisim
+*.swp
+*.swo
+/generated-src
+tags
