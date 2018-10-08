@@ -1,6 +1,5 @@
 /Makefrag.pkgs
 target
-*.jar
 *.stamp
 /vsim
 /verisim
