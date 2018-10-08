@@ -1,3 +1,18 @@
 [submodule "testchipip"]
 	path = testchipip
 	url = https://github.com/ucb-bar/testchipip.git
+[submodule "riscv-tools"]
+	path = rocket-chip/riscv-tools
+	url = https://github.com/riscv/riscv-tools.git
+[submodule "hardfloat"]
+	path = rocket-chip/hardfloat
+	url = https://github.com/ucb-bar/berkeley-hardfloat.git
+[submodule "torture"]
+	path = rocket-chip/torture
+	url = https://github.com/ucb-bar/riscv-torture.git
+[submodule "chisel3"]
+	path = rocket-chip/chisel3
+	url = https://github.com/ucb-bar/chisel3.git
+[submodule "firrtl"]
+	path = rocket-chip/firrtl
+	url = https://github.com/ucb-bar/firrtl.git
