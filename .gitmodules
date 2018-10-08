@@ -1,6 +1,3 @@
-[submodule "rocket-chip"]
-	path = rocket-chip
-	url = git@gitlab.antmicro.com:thales-risc-v-rocket-chip.git
 [submodule "testchipip"]
 	path = testchipip
 	url = https://github.com/ucb-bar/testchipip.git
