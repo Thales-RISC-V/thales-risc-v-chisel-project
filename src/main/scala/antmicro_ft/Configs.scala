@@ -1,3 +1,8 @@
+/*  
+*   Copyright © 2018. Thales SA 
+*   All rights reserved
+*/
+
 package antmicro_ft
 
 import chisel3._
